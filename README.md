@@ -1,6 +1,6 @@
 # Krazy's Auto Clicker
 
-This is a desktop application I built out using customtkinter, and pynput. This app has customizable start/pause and quit keys as well as varriable delay inbetween clicks.
+This is a desktop application I built out using customtkinter, and pynput. This app has customizable start/pause and quit keys as well as variable delay in-between clicks.
 
 DOWNLOAD AND USAGE:
 1. Download the 'Krazy's Clicker.zip'
