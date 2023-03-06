@@ -16,3 +16,5 @@ SUPPORT:
 Hope yall enjoy the repo, star if you used it!
 
 Thanks 😎
+
+![Krazy's Clicker](https://media.discordapp.net/attachments/897472930919899137/1082337096494219355/autoclicker.png)
